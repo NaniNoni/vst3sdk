@@ -25,7 +25,6 @@
 The full **VST 3 SDK** is available [here!](https://www.steinberg.net/en/company/developers.html). It contains:
 
 - VST 3 plug-in Test Host Application/Validator,
-- the **Steinberg VST 3 Plug-In SDK Licensing Agreement** that you have to sign if you want to develop or host **VST 3** plug-ins.
 
 <div id='200'/>
 
